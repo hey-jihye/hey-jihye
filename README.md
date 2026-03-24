@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hye to Hey!
 
-<!--
-**hey-jihye/hey-jihye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **"덜어낼수록 선명해지는 경험을 설계합니다."**
+ 
+본질만 남겨 명확한 인사(Hey)를 건네는 기획자, 지혜입니다.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Stacks
+
+**Planning & Strategy**
+* Figma / Notion
+
+**Design & Media**
+* Photoshop / Illustrator
+* Premiere Pro / After Effects
+
+**Development**
+* HTML / CSS / JavaScript / React
